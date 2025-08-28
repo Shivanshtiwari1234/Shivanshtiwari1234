@@ -20,5 +20,4 @@ I want to become a **professional python developer**
 ## Contact me
 [![Email](https://img.shields.io/badge/Email-shivansh.jmis%40gmail.com-red?style=flat-square&logo=gmail)](mailto:shivansh.jmis@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Shivanshtiwari1234-181717?style=flat-square&logo=github)](https://github.com/Shivanshtiwari1234)  
-[![Scratch](https://img.shields.io/badge/Scratch-Shivanshtiwari1234-FFA500?style=flat-square&logo=scratch)](https://scratch.mit.edu/users/Shivanshtiwari1234)  
-[![Unity](https://img.shields.io/badge/Unity-Shivanshtiwari1234-black?style=flat-square&logo=unity)](https://connect.unity.com/u/Shivanshtiwari1234)
+[![Scratch](https://img.shields.io/badge/Scratch-Shivanshtiwari1234-FFA500?style=flat-square&logo=scratch)](https://scratch.mit.edu/users/Shivanshtiwari1234)
