@@ -1,7 +1,7 @@
 # Shivanshtiwari1234
 
 I like programming. I have my own **Scratch, GitHub and Unity** accounts.  
-I want to become a **professional web developer**
+I want to become a **professional python developer**
 
 ## Table of contents
 - [About me](#about-me)
@@ -12,7 +12,7 @@ I want to become a **professional web developer**
 👤 My real name is **Shivansh Tiwari**  
 📍 I am from **India**  
 💻 I like to do **programming**  
-🌐 I'm interested in **web development (frontend)**
+🌐 I'm interested in **python**
 
 ## My journey
 🧠 I started coding when I was as young as **7 years old**
