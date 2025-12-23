@@ -1,32 +1,39 @@
-# Hi, I'm Shivi 👋  
+# Hi, I'm Shivi 👋
 
-![Profile Banner](https://img.shields.io/badge/Status-Active-green) ![Top Language](https://img.shields.io/badge/Top%20Language-Java-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shivi)  
+![Shivi Banner](https://img.shields.io/badge/Welcome-to_Shivi's_Profile-ff69b4?style=for-the-badge)  
+![Status](https://img.shields.io/badge/Status-Active-green) ![Top Language](https://img.shields.io/badge/Top%20Language-Java-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shivi)  
 
-I’m a passionate developer exploring programming, creative tech projects, and problem-solving. I love experimenting with code, building tools, and learning new frameworks and languages.  
+I’m a passionate developer, tinkerer, and experimenter. I love exploring programming, creative tech projects, system hacks, game engines, and everything in between. I focus on turning complex ideas into working solutions, experimenting with graphics, file formats, and even creating my own programming languages.
 
 ---
 
-## 🔭 Currently Working On
-- **Adventurous Renderer** – Pixel-perfect isometric cube renderer in Java 🎮  
-- **zScript** – Custom programming language with file & library management 📝  
-- **FastAPI Calculator** – Advanced expression handling and display ⚡  
+## 🔭 Projects & Experiments
+- **Adventurous Renderer** – Pixel-perfect isometric cube renderer in Java (CPU & GPU optimized, multithreaded) 🎮  
+- **zScript** – Custom programming language with `.zs` files and `.zslib` libraries, compiler, and tools 📝  
+- **FastAPI Calculator** – Shows full expressions with operator handling in real time ⚡  
+- **Windows Icon & OS Tweaks** – Custom file icons, personalized UI tweaks, and registry experiments 🖌️  
+- **Electron Packaging** – Packaged NodeJS/Electron projects into portable standalone EXEs 💻
+- **AND MORE**
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **3D graphics & rendering** 🖌️  
-- **GPU computing** & multithreading optimizations ⚙️  
-- Designing **personal programming languages** 💡  
+- Advanced **3D graphics & isometric rendering**  s
+- **GPU computing** & multithreading optimization  
+- Designing **personal programming languages** and custom tools  
+- Exploring **game engines and engine-level programming**
 
----
+---s
 
 ## 💻 Skills
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![Swing](https://img.shields.io/badge/-Swing-007396?style=flat-square)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)  
 
 ---
 
@@ -37,22 +44,16 @@ I’m a passionate developer exploring programming, creative tech projects, and 
 ---
 
 ## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivi)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivanshtiwari1234)  
+
 
 ---
 
-## ⚡ Fun Facts
-- Love combining **creativity with technical depth**  
-- Experimenting with **OS tweaks, custom tools, and unique projects**  
-- Turning **complex ideas into working code** is my favorite challenge 💡  
+## ⚡ Fun Facts & Interests
+- Experimenting with **OS tweaks, file formats, and registry hacks**  
+- Turning **complex ideas into working, creative solutions**  
+- Deep interest in **game dev, rendering engines, and system-level programming**  
+- Always exploring **new tools, languages, and creative tech experiments**
 
 ---
 
-## ✨ Animated Profile GIFs (Optional)
-You can embed fun GIFs to showcase projects or personality, e.g.:  
-
-```markdown
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![3D Rendering Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
