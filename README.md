@@ -1,59 +1,38 @@
-# Hi, I'm Shivi 👋
+<h1 align="center">Hi there 👋, I'm a Multilingual Developer</h1>
+<p align="center">
+  <em>Passionate about systems programming, backend engineering, and building things that run fast and run everywhere.</em>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Python+%7C+Rust+%7C+C+%7C+C%2B%2B+Developer;Building+web+servers+%26+automation+tools;Crafting+games+and+applets+in+Java+%26+C%2B%2B;Always+learning%2C+always+shipping." alt="Typing SVG" />
+</p>
 
-![Shivi Banner](https://img.shields.io/badge/Welcome-to_Shivi's_Profile-ff69b4?style=for-the-badge)  
-![Status](https://img.shields.io/badge/Status-Active-green) ![Top Language](https://img.shields.io/badge/Top%20Language-Java-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shivi)  
+🧑‍💻 About Me
+🌍 Multilingual developer, comfortable switching between languages and codebases
+🦀 Deep interest in Rust for safe, high-performance systems
+🐍 Build Python web servers, scripts, and automation tools
+⚙️ Strong foundation in C and C++ for low-level and performance-critical work
+🎮 Create games and applets using Java and C++
+🔭 Currently exploring new projects across systems programming and backend development
+⚡ Enjoy solving problems that span multiple languages and tech stacks
 
-I’m a passionate developer, tinkerer, and experimenter. I love exploring programming, creative tech projects, system hacks, game engines, and everything in between. I focus on turning complex ideas into working solutions, experimenting with graphics, file formats, and even creating my own programming languages.
+🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,c,cpp,java,linux,git,bash" alt="Skills" />
+</p>
 
----
+📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-## 🔭 Projects & Experiments
-- **Adventurous Renderer** – Pixel-perfect isometric cube renderer in Java (CPU & GPU optimized, multithreaded) 🎮  
-- **zScript** – Custom programming language with `.zs` files and `.zslib` libraries, compiler, and tools 📝  
-- **FastAPI Calculator** – Shows full expressions with operator handling in real time ⚡  
-- **Windows Icon & OS Tweaks** – Custom file icons, personalized UI tweaks, and registry experiments 🖌️  
-- **Electron Packaging** – Packaged NodeJS/Electron projects into portable standalone EXEs 💻
-- **AND MORE**
+📫 Connect With Me
+<p align="left">
+  <a href="mailto:shivansh.jmis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://shivanshtiwari1234.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</p>
 
----
-
-## 🌱 Currently Learning
-- Advanced **3D graphics & isometric rendering**  s
-- **GPU computing** & multithreading optimization  
-- Designing **personal programming languages** and custom tools  
-- Exploring **game engines and engine-level programming**
-
----s
-
-## 💻 Skills
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Swing](https://img.shields.io/badge/-Swing-007396?style=flat-square)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)  
-
----
-
-## 📊 GitHub Stats
-![Shivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivi&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivi&layout=compact&theme=radical)  
-
----
-
-## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivanshtiwari1234)  
-
-
----
-
-## ⚡ Fun Facts & Interests
-- Experimenting with **OS tweaks, file formats, and registry hacks**  
-- Turning **complex ideas into working, creative solutions**  
-- Deep interest in **game dev, rendering engines, and system-level programming**  
-- Always exploring **new tools, languages, and creative tech experiments**
-
----
-
+<p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
